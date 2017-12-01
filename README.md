@@ -21,6 +21,7 @@ Just below the blue CSR module board, you'll notice some little solder pads, the
 * CSB => 220ohm resistor => DTR
 * MISO => 220ohm resistor => DSR (might be 'RSD', when counterfeit :p)
 
+![Wiring](maestun.github.com/csr8635-config-notes/wiring.jpg)
 
 
 Also solder a wire on the pin n°10 of the CSR module: this is a 1.8V output given by the chip. 
